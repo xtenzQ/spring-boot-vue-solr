@@ -732,7 +732,7 @@
       <str name="rows">10</str>
       <bool name="hl">false</bool>
       <str name="fl">id, title, description</str>
-      <str name="qf">id^30 title^20 description^25 title_tokenized^10 title_edge_stemmed^1 description_tokenized^12 title_stemmed^5 description_stemmed^2 description_edge_stemmed^1</str>
+      <str name="qf">id^30 title^20 description^25 title_tokenized^10 description_tokenized^12 title_stemmed^5 description_stemmed^2</str>
     </lst>
   </requestHandler>
 
